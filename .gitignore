@@ -1,0 +1,7 @@
+*.pyc
+*.pth
+log/*
+weights/*
+eval/input/*
+eval/output/*
+eval/results/*
