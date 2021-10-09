@@ -1,4 +1,4 @@
-# A Novel Multi-Scale Key-Point Detector Using Residual Dense Block and Coordinate Attention
+# MSKPD-RDBCA
 
 We will update the environment settings and the details of how to use the pre-trained model as soon as possible.
 
