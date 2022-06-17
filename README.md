@@ -47,6 +47,6 @@ python eval_voc.py
 
 Last, get the mean average precision.
 
-``python
+```python
 python evel/get_map.py
 ```
