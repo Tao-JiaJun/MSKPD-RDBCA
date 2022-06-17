@@ -12,10 +12,10 @@ We have trained our model with backbone of ResNet-18, ResNet-50 and MobileNet V2
 
 ## Experimental environment
 
--- Windows Server 2019
--- Python 3.7
--- Pytorch 1.8.1
--- CUDNN 8.2.1.32
+- Windows Server 2019
+- Python 3.7
+- Pytorch 1.8.1
+- CUDNN 8.2.1.32
 
 ## How to use
 
